@@ -20,17 +20,3 @@
   <img align="center alt="Jean-Css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center alt="Jean-Mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
-
-<div>
- 
-  ![Snake animation](https://github.com/havocjean/havocjean/blob/output/github-contribution-grid-snake.svg)
-</div>
-
-<!--
-**HavocJean/havocjean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
