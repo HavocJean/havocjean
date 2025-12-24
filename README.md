@@ -15,9 +15,9 @@ Gosto de código limpo, projetos bem organizados e aprender coisas novas na prá
 
 <div align="center">  
   <a href="https://github.com/havocjean">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=havocjean&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-navy-three.vercel.app/api?username=havocjean&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=havocjean&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=havocjean&stats_format=bytes&layout=compact&langs_count=7&theme=dracula"/>
 </div>  
 </br>
 
