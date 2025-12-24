@@ -32,8 +32,6 @@ Gosto de código limpo, projetos bem organizados e aprender coisas novas na prá
 </div>  
 </br>
 
-<hr style="border: 1px solid #444; width: 60%;">
-
 <div align="center">
   <a href="https://www.linkedin.com/in/jean-marques19/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
