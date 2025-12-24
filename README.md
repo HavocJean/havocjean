@@ -11,15 +11,6 @@ Gosto de código limpo, projetos bem organizados e aprender coisas novas na prá
 🎮 **Hobbies:** Animes, jogos, música e séries  
 </br>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/jean-marques19/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/havocjean/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div>
-
 <hr style="border: 1px solid #444; width: 60%;">
 
 <div align="center">  
@@ -38,4 +29,16 @@ Gosto de código limpo, projetos bem organizados e aprender coisas novas na prá
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>  
+</br>
+
+<hr style="border: 1px solid #444; width: 60%;">
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jean-marques19/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/havocjean/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </div>
