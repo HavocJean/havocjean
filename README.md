@@ -9,18 +9,18 @@ Gosto de código limpo, projetos bem organizados e aprender coisas novas na prá
 🌱 **Estudando:** Golang e Arquitetura de Software  
 🎯 **Interesse:** Backend, APIs, arquitetura, clean code e boas práticas  
 🎮 **Hobbies:** Animes, jogos, música e séries  
-
 </br>
 
 <hr style="border: 1px solid #444; width: 60%;">
-  
+
 <div align="center">  
   <a href="https://github.com/havocjean">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=havocjean&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=havocjean&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
+</div>  
 </br>
+
+<hr style="border: 1px solid #444; width: 60%;">
 
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
